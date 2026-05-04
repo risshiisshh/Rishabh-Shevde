@@ -17,7 +17,11 @@
     <img src="[https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)" />
   </a>
   
-  <a href="[https://www.instagram.com/rishcine/](https://www.instagram.com/rishcine/)">
+  <a href="[https://x.com/Risshhiisshh](https://x.com/Risshhiisshh)">
+    <img src="[https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=x](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=x)" />
+  </a>
+  
+  <a href="[https://www.instagram.com/rishcine](https://www.instagram.com/rishcine)">
     <img src="[https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)" />
   </a>
 </p>
@@ -26,17 +30,17 @@
 
 # 🧠 About Me
 
-I’m **Rishabh Shevde**, a **Computer Science and Design** undergrad from **Dombivli, India 🇮🇳**, focused on merging complex software logic with cinematic visual storytelling.
+I’m **Rishabh Shevde**, a **Computer Science and Design** undergrad from **Dombivli, India**[cite: 1, 2], focused on merging complex software logic with cinematic visual storytelling[cite: 2].
 
 🚀 I thrive at the intersection of technical engineering and creative media, building solutions involving:
 
-- 🌐 Full Stack Web Development (React & Next.js)[cite: 1]
-- 🎨 Responsive UI/UX Design & 3D Mapping[cite: 1]
-- 🎥 Professional Cinematography & Video Editing
-- 📱 Mobile App Development (SwiftUI)
-- 🤖 AI-Driven Project Architecture[cite: 3]
+- 🌐 Full Stack Web Development (React, Next.js, & Tailwind CSS).
+- 🎨 Responsive UI/UX Design & 3D Mapping[cite: 1].
+- 🎥 Professional Cinematography & Video Editing (DaVinci Resolve)[cite: 2].
+- 📱 Mobile App Development (SwiftUI)[cite: 2].
+- 🤖 AI-Driven Project Architecture.
 
-💡 I believe that **every UI should be as beautiful as a cinematic frame**, combining high-performance code with a strong visual identity.
+💡 I believe that **every UI should be as beautiful as a cinematic frame**, combining high-performance code with a strong visual identity[cite: 2].
 
 ---
 
@@ -48,9 +52,9 @@ I’m **Rishabh Shevde**, a **Computer Science and Design** undergrad from **Dom
   <img src="[https://skillicons.dev/icons?i=js,python,swift,html,css,react,nextjs,tailwind](https://skillicons.dev/icons?i=js,python,swift,html,css,react,nextjs,tailwind)" />
 </p>
 
-- **Swift / SwiftUI**: For high-end mobile experiences.
+- **Swift / SwiftUI**: For high-end mobile experiences and Apple ecosystem projects[cite: 2].
 - **Next.js & React**: For scalable, modern web platforms.
-- **Python**: For backend logic and problem-solving.
+- **Python**: For backend logic and problem-solving[cite: 2].
 
 ---
 
@@ -60,8 +64,8 @@ I’m **Rishabh Shevde**, a **Computer Science and Design** undergrad from **Dom
   <img src="[https://skillicons.dev/icons?i=firebase,git,github](https://skillicons.dev/icons?i=firebase,git,github)" />
 </p>
 
-- **Firebase**: Authentication & Cloud Firestore[cite: 1].
-- **Architecture**: Refactoring systems for role-based access.
+- **Firebase**: Proficiency in Authentication and Cloud Firestore[cite: 1].
+- **Architecture**: Specialized in refactoring systems for role-based access control.
 
 ---
 
@@ -71,9 +75,9 @@ I’m **Rishabh Shevde**, a **Computer Science and Design** undergrad from **Dom
   <img src="[https://skillicons.dev/icons?i=apple,instagram](https://skillicons.dev/icons?i=apple,instagram)" />
 </p>
 
-- **DaVinci Resolve**: Professional color grading and editing.
-- **Cinematography**: Visual storytelling and composition.
-- **Content Creation**: Managing the digital portfolio **@rishcine**.
+- **DaVinci Resolve**: Professional color grading and cinematic editing[cite: 2].
+- **Cinematography**: Expertise in visual storytelling, composition, and lighting[cite: 2].
+- **Content Creation**: Managing the digital portfolio **@rishcine**[cite: 2].
 
 ---
 
@@ -95,10 +99,10 @@ A robust role-based visitor management system with a focus on secure architectur
 
 # 🏆 Achievements
 
-- 🏆 **Best Group Dance Trophy** — Winner at Kshitijam 2K26 (Group: Pink Flower).
-- 🚀 **Apple Swift Student Challenge** — Concept developer for creative mobile solutions.
-- 🎤 **Build with AI Bootcamp** — Participated at Atlas SkillTech University (April 2026).
-- 🎥 **Digital Portfolio** — Established **@rishcine** with a focus on cinematic short-form content.
+- 🏆 **Best Group Dance Trophy** — Winner at Kshitijam 2K26 with group "Pink Flower".
+- 🚀 **Apple Swift Student Challenge** — Developed app concepts for the 2026 challenge.
+- 🎤 **Build with AI Bootcamp** — Attended at Atlas SkillTech University in April 2026.
+- 🎥 **Digital Portfolio** — Established **@rishcine** for high-quality cinematic storytelling[cite: 2].
 
 ---
 
@@ -106,8 +110,8 @@ A robust role-based visitor management system with a focus on secure architectur
 
 ## 🏫 B.E. Computer Science and Design
 
-**New Horizon Institute of Technology and Management (NHITM)**  
-📅 2025 – 2029
+**New Horizon Institute of Technology and Management (NHITM)**[cite: 1, 2]  
+📅 2025 – 2029[cite: 1, 2]
 
 ---
 
@@ -130,6 +134,10 @@ A robust role-based visitor management system with a focus on secure architectur
 
   <a href="[https://github.com/risshiisshh](https://github.com/risshiisshh)">
     <img src="[https://img.shields.io/badge/GitHub-risshiisshh-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-risshiisshh-black?style=for-the-badge&logo=github)" />
+  </a>
+
+  <a href="[https://x.com/Risshhiisshh](https://x.com/Risshhiisshh)">
+    <img src="[https://img.shields.io/badge/Twitter-Risshhiisshh-blue?style=for-the-badge&logo=x](https://img.shields.io/badge/Twitter-Risshhiisshh-blue?style=for-the-badge&logo=x)" />
   </a>
 
   <a href="mailto:rishabhshevde@gmail.com">
