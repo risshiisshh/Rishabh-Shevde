@@ -1,4 +1,4 @@
-👋 Hi there! I'm Rishabh Shevde 
+**👋 Hi there! I'm Rishabh Shevde**
 ### Transforming Complex Logic into Cinematic Digital Experiences
 I am a First-Year Computer Science and Design Student at the New Horizon Institute of Technology and Management. I thrive at the intersection of full-stack development and cinematic storytelling, building high-performance applications with a focus on User Experience (UX) and Visual Identity.  
 
