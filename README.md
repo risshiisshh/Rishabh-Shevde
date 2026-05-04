@@ -1,44 +1,154 @@
-**👋 Hi there! I'm Rishabh Shevde**
-### Transforming Complex Logic into Cinematic Digital Experiences
-I am a First-Year Computer Science and Design Student at the New Horizon Institute of Technology and Management. I thrive at the intersection of full-stack development and cinematic storytelling, building high-performance applications with a focus on User Experience (UX) and Visual Identity.  
+# 👋 Hey there, I'm **Rishabh Shevde** 🚀
 
+<p align="center">
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Creative+Engineer;Cinematographer;AI+Innovator;Building+Digital+Experiences;UI%2FUX+Designer](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Creative+Engineer;Cinematographer;AI+Innovator;Building+Digital+Experiences;UI%2FUX+Designer)" />
+</p>
 
-**🛠️ THE TECHNICAL TOOLKIT**
+<p align="center">
+  <b>💻 Full Stack Developer | 🎥 Cinematographer | 🎨 UI/UX Designer | 🚀 Creative Technologist</b>
+</p>
 
-Languages: Swift (SwiftUI) , Python, JavaScript.  
-+1
+<p align="center">
+  <a href="[https://linkedin.com/in/rishabh-shevde-4b0014309](https://linkedin.com/in/rishabh-shevde-4b0014309)">
+    <img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)" />
+  </a>
+  
+  <a href="[https://github.com/risshiisshh](https://github.com/risshiisshh)">
+    <img src="[https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)" />
+  </a>
+  
+  <a href="[https://www.instagram.com/rishcine/](https://www.instagram.com/rishcine/)">
+    <img src="[https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)" />
+  </a>
+</p>
 
-Frameworks/Web: Next.js, React, Tailwind CSS.
+---
 
+# 🧠 About Me
 
-Backend/Cloud: Firebase Authentication, Cloud Firestore.  
-+1
+I’m **Rishabh Shevde**, a **Computer Science and Design** undergrad from **Dombivli, India 🇮🇳**, focused on merging complex software logic with cinematic visual storytelling.
 
+🚀 I thrive at the intersection of technical engineering and creative media, building solutions involving:
 
-Design/Creative: DaVinci Resolve, Cinematography, Responsive UI Design.  
-+2
+- 🌐 Full Stack Web Development (React & Next.js)[cite: 1]
+- 🎨 Responsive UI/UX Design & 3D Mapping[cite: 1]
+- 🎥 Professional Cinematography & Video Editing
+- 📱 Mobile App Development (SwiftUI)
+- 🤖 AI-Driven Project Architecture[cite: 3]
 
-**🚀 FEATURED INNOVATIONS**
-CrowdSense: A visitor management and stadium experience platform utilizing 3D mapping and Next.js.
+💡 I believe that **every UI should be as beautiful as a cinematic frame**, combining high-performance code with a strong visual identity.
 
-VoxeraAI: An intelligent AI-driven communication interface focusing on seamless interaction.
+---
 
-VeraHealth: A digital healthcare solution designed for streamlined patient management.
+# ⚡ Tech Stack
 
-SentraAI: A role-based access control system featuring refactored architecture.
+## 💻 Languages & Frameworks
 
-🎥 CREATIVE IDENTITY
-I run @rishcine, a digital portfolio dedicated to visual storytelling. I apply the principles of composition, lighting, and color grading to the software I build, ensuring every UI is as beautiful as a cinematic frame.  
-+2
+<p>
+  <img src="[https://skillicons.dev/icons?i=js,python,swift,html,css,react,nextjs,tailwind](https://skillicons.dev/icons?i=js,python,swift,html,css,react,nextjs,tailwind)" />
+</p>
 
-**📫 CONNECT WITH ME**
+- **Swift / SwiftUI**: For high-end mobile experiences.
+- **Next.js & React**: For scalable, modern web platforms.
+- **Python**: For backend logic and problem-solving.
 
-LinkedIn: in/rishabh-shevde-4b0014309   
-+1
+---
 
+## ⚙️ Backend & Cloud
 
-Instagram: @rishcine   
-+1
+<p>
+  <img src="[https://skillicons.dev/icons?i=firebase,git,github](https://skillicons.dev/icons?i=firebase,git,github)" />
+</p>
 
+- **Firebase**: Authentication & Cloud Firestore[cite: 1].
+- **Architecture**: Refactoring systems for role-based access.
 
-Email: rishabhshevde@gmail.com
+---
+
+## 🎨 Creative Studio
+
+<p>
+  <img src="[https://skillicons.dev/icons?i=apple,instagram](https://skillicons.dev/icons?i=apple,instagram)" />
+</p>
+
+- **DaVinci Resolve**: Professional color grading and editing.
+- **Cinematography**: Visual storytelling and composition.
+- **Content Creation**: Managing the digital portfolio **@rishcine**.
+
+---
+
+# 🚀 Featured Projects
+
+## 🏟️ CrowdSense
+A visitor management and stadium experience platform utilizing **3D mapping** and **Next.js** for immersive navigation.
+
+## 🤖 VoxeraAI
+An intelligent AI-driven communication interface designed for seamless and intuitive user interaction.
+
+## 🏥 VeraHealth
+A digital healthcare solution built to streamline patient management and medical workflows.
+
+## 🔐 SentraAI
+A robust role-based visitor management system with a focus on secure architecture and access control.
+
+---
+
+# 🏆 Achievements
+
+- 🏆 **Best Group Dance Trophy** — Winner at Kshitijam 2K26 (Group: Pink Flower).
+- 🚀 **Apple Swift Student Challenge** — Concept developer for creative mobile solutions.
+- 🎤 **Build with AI Bootcamp** — Participated at Atlas SkillTech University (April 2026).
+- 🎥 **Digital Portfolio** — Established **@rishcine** with a focus on cinematic short-form content.
+
+---
+
+# 🎓 Education
+
+## 🏫 B.E. Computer Science and Design
+
+**New Horizon Institute of Technology and Management (NHITM)**  
+📅 2025 – 2029
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=risshiisshh&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=risshiisshh&show_icons=true&theme=tokyonight&hide_border=true)" height="180em" />
+  
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=risshiisshh&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=risshiisshh&layout=compact&theme=tokyonight&hide_border=true)" height="180em" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="[https://linkedin.com/in/rishabh-shevde-4b0014309](https://linkedin.com/in/rishabh-shevde-4b0014309)">
+    <img src="[https://img.shields.io/badge/LinkedIn-Rishabh%20Shevde-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Rishabh%20Shevde-blue?style=for-the-badge&logo=linkedin)" />
+  </a>
+
+  <a href="[https://github.com/risshiisshh](https://github.com/risshiisshh)">
+    <img src="[https://img.shields.io/badge/GitHub-risshiisshh-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-risshiisshh-black?style=for-the-badge&logo=github)" />
+  </a>
+
+  <a href="mailto:rishabhshevde@gmail.com">
+    <img src="[https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+## 🔥 Engineering Logic. Designing Vision. 🔥
+
+⭐ *If you like my work, check out my repositories and follow my creative journey!*
+
+</p>
+
+---
+
+<p align="center">
+  © 2026 <b>Rishabh Shevde</b>
+</p>
