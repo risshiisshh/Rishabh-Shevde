@@ -1,10 +1,49 @@
-👋 Hi, I'm Rishabh Shevde!
-Full-Stack Developer | CSD Undergrad | Creative Technologist
-I’m a first-year Computer Science and Design student at NHITM dedicated to building AI-driven solutions that enhance user experiences. Whether it’s optimizing stadium logistics or creating intelligent health assistants, I focus on merging technical precision with intuitive design.
-🚀 Featured Projects:
-CrowdSense: A visitor management and stadium experience platform using Next.js and 3D mapping.
-VoxeraAI: An intelligent AI-driven communication/voice assistant interface.
-VeraHealth: A digital health platform designed for streamlined patient management.
-SentraAI: A role-based access control and visitor management system.
-🛠 Technical Toolkit: React, Next.js, Tailwind CSS, SwiftUI, Python, and Firebase.
-🎨 Creative Edge: Professional cinematographer and video editor at @rishcine. I bring cinematic storytelling and high-end visual polish to every digital interface I build.
+Make it bigger as well use bold font underline or something etc
+
+🚀 RISHABH SHEVDE | THE CREATIVE ENGINEER
+📂 GITHUB PROFILE BIO (HACKATHON EDITION)
+This bio is designed to be high-impact, using Markdown to grab the attention of recruiters and hackathon judges alike.
+
+👋 Hi there! I'm Rishabh Shevde ### Transforming Complex Logic into Cinematic Digital Experiences
+I am a First-Year Computer Science and Design Student at the New Horizon Institute of Technology and Management. I thrive at the intersection of full-stack development and cinematic storytelling, building high-performance applications with a focus on User Experience (UX) and Visual Identity.  
++3
+
+🛠️ THE TECHNICAL TOOLKIT
+
+Languages: Swift (SwiftUI) , Python, JavaScript.  
++1
+
+Frameworks/Web: Next.js, React, Tailwind CSS.
+
+
+Backend/Cloud: Firebase Authentication, Cloud Firestore.  
++1
+
+
+Design/Creative: DaVinci Resolve, Cinematography, Responsive UI Design.  
++2
+
+🚀 FEATURED INNOVATIONS
+CrowdSense: A visitor management and stadium experience platform utilizing 3D mapping and Next.js.
+
+VoxeraAI: An intelligent AI-driven communication interface focusing on seamless interaction.
+
+VeraHealth: A digital healthcare solution designed for streamlined patient management.
+
+SentraAI: A role-based access control system featuring refactored architecture.
+
+🎥 CREATIVE IDENTITY
+I run @rishcine, a digital portfolio dedicated to visual storytelling. I apply the principles of composition, lighting, and color grading to the software I build, ensuring every UI is as beautiful as a cinematic frame.  
++2
+
+📫 CONNECT WITH ME
+
+LinkedIn: in/rishabh-shevde-4b0014309   
++1
+
+
+Instagram: @rishcine   
++1
+
+
+Email: rishabhshevde@gmail.com
