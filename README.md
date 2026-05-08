@@ -30,17 +30,17 @@
 
 # 🧠 About Me
 
-I’m **Rishabh Shevde**, a **Computer Science and Design** undergrad from **Dombivli, India**[cite: 1, 2], focused on merging complex software logic with cinematic visual storytelling[cite: 2].
+I’m **Rishabh Shevde**, a **Computer Science and Design** undergrad from **Dombivli, India**[cite: 1, 2], focused on merging complex software logic with cinematic visual storytelling.
 
 🚀 I thrive at the intersection of technical engineering and creative media, building solutions involving:
 
 - 🌐 Full Stack Web Development (React, Next.js, & Tailwind CSS).
-- 🎨 Responsive UI/UX Design & 3D Mapping[cite: 1].
-- 🎥 Professional Cinematography & Video Editing (DaVinci Resolve)[cite: 2].
-- 📱 Mobile App Development (SwiftUI)[cite: 2].
+- 🎨 Responsive UI/UX Design & 3D Mapping.
+- 🎥 Professional Cinematography & Video Editing (DaVinci Resolve).
+- 📱 Mobile App Development (SwiftUI).
 - 🤖 AI-Driven Project Architecture.
 
-💡 I believe that **every UI should be as beautiful as a cinematic frame**, combining high-performance code with a strong visual identity[cite: 2].
+💡 I believe that **every UI should be as beautiful as a cinematic frame**, combining high-performance code with a strong visual identity.
 
 ---
 
@@ -52,9 +52,9 @@ I’m **Rishabh Shevde**, a **Computer Science and Design** undergrad from **Dom
   <img src="[https://skillicons.dev/icons?i=js,python,swift,html,css,react,nextjs,tailwind](https://skillicons.dev/icons?i=js,python,swift,html,css,react,nextjs,tailwind)" />
 </p>
 
-- **Swift / SwiftUI**: For high-end mobile experiences and Apple ecosystem projects[cite: 2].
+- **Swift / SwiftUI**: For high-end mobile experiences and Apple ecosystem projects.
 - **Next.js & React**: For scalable, modern web platforms.
-- **Python**: For backend logic and problem-solving[cite: 2].
+- **Python**: For backend logic and problem-solving.
 
 ---
 
