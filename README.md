@@ -102,7 +102,7 @@ A robust role-based visitor management system with a focus on secure architectur
 - 🏆 **Best Group Dance Trophy** — Winner at Kshitijam 2K26 with group "Pink Flower".
 - 🚀 **Apple Swift Student Challenge** — Developed app concepts for the 2026 challenge.
 - 🎤 **Build with AI Bootcamp** — Attended at Atlas SkillTech University in April 2026.
-- 🎥 **Digital Portfolio** — Established **@rishcine** for high-quality cinematic storytelling[cite: 2].
+- 🎥 **Digital Portfolio** — Established **@rishcine** for high-quality cinematic storytelling
 
 ---
 
@@ -110,8 +110,8 @@ A robust role-based visitor management system with a focus on secure architectur
 
 ## 🏫 B.E. Computer Science and Design
 
-**New Horizon Institute of Technology and Management (NHITM)**[cite: 1, 2]  
-📅 2025 – 2029[cite: 1, 2]
+**New Horizon Institute of Technology and Management (NHITM)**
+📅 2025 – 2029
 
 ---
 
